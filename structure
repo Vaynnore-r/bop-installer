@@ -1,0 +1,8 @@
+bop-installer/
+├── install.sh
+├── packages.sh
+├── suckless.sh
+├── dots.sh
+├── configs/
+│   └── xinitrc
+└── README.md
